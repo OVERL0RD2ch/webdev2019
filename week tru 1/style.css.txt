@@ -14,7 +14,7 @@ html, body{
   text-align: center;
 }
 body{
-  background-image: url("");
+  background-image: url("https://blog.homeaway.asia/wp-content/uploads/2017/02/wuling-farm.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
