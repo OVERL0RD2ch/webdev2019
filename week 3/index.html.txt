@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Ilyas's momentum </title>
+    <title> Pavel's momentum </title>
     <link rel="stylesheet" href="./style.css" >
   </head>
   <body>
@@ -9,7 +9,7 @@
 
     </div>
     <div class="overlay">
-      <h1>Hello, Tagayev Ilyas </h1>
+      <h1>Hello, Kozlov Pavel </h1>
     </div>
     <div class="body">
          <input type="text" placeholder="New Task" id = "myInput">
